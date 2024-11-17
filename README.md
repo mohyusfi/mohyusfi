@@ -1,6 +1,7 @@
 ## Hi there 👋
-
-// **mooyuuuu/mooyuuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 
+**mooyuuuu/mooyuuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=ffffff&size=45&center=true&vCenter=true&width=1000&lines=👋+Hi,+I'm+Yusfi!;Welcome+to+my+GitHub!;Let's+create+something+awesome!)](https://git.io/typing-svg)
 
