@@ -26,8 +26,7 @@
 ## 🤔  Ketawa namun terluka?
 
 ### ***Hi, I’m Mohammad Yusfi Lakhafidun!***  
-A passionate web developer with a strong background in crafting user-centric websites and applications.  
-With a blend of creativity and technical expertise, I specialize in building intuitive, responsive, and visually appealing web experiences.
+Ingin menjadi Programmer 2 dijit namun enggan ngoding
 
 </div>
 
